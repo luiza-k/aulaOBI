@@ -50,7 +50,6 @@ Depois de clicar em "Use this template" no GitHub e criar o **seu** repositório
 git clone [https://github.com/SEU_USUARIO/NOME_DO_SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_SEU_REPOSITORIO.git)
 ```
 Abra a pasta recém-criada no VS Code.
-
 ---
 
 ## Parte 3: O Fluxo de Trabalho (O Ciclo do Código)

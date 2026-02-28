@@ -4,14 +4,14 @@ using namespace std;
 
 int main(void){
 
-    int a, b, soma;
-    cout << " Quais os números que você quer somar? ";
+   int  a, b,res;
+    cout << " Quais os números que você quer multiplicar? ";
     cin >> a >> b ;
 
    
-    soma =  a + b ;
+    res =  a % b ;
 
-    cout << "A soma dos numeros intregues é: "<< (a + b ) << "/n";
+    cout << "o resto da divisão dos numeros intregues é: "<< res << "/n";
 
 
     return 0;
